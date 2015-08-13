@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.files = %w(
     lib/rubocop/formatter/markdown_formatter.rb
     spec/rubocop/formatter/markdown_formatter_spec.rb
-    Rakefie
+    Rakefile
     LICENSE
     README.md
     rubocop-markdown_formatter.gemspec
